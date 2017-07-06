@@ -1,66 +1,45 @@
-- Name: Amazon.com
-  Status: Former
-- Name: Bill & Melinda Gates Foundation
-  Status: Former
-- Name: Dell
-  Status: Former
-- Name: Google
-  Status: Former
-- Name: Hewlett-Packard
-  Status: Former
-- Name: Intuit
-  Status: Former
-- Name: Kaplan Inc
-  Status: Former
-- Name: Lumina Foundation
-  Status: Former
-- Name: National Association of Charter School Authorizers
-  Status: Former
-- Name: National Board for Professional Teaching Standards
-  Status: Former
-- Name: Reed Elsevier
-  Status: Former
-- Name: SAP
-  Status: Former
-- Name: Scantron
-  Status: Former
-- Name: Walmart
-  Status: Former
-- Name: Yahoo
-  Status: Former
-- Name: Yelp
-  Status: Former
-- Name: 3M
-  Status: Active
-- Name: AT&T
-  Status: Active
-- Name: Center for Digital Media Freedom
-  Status: Active
-- Name: CenturyLink
-  Status: Active
-- Name: Charter Communications
-  Status: Active
-- Name: CTIA - The Wireless Association
-  Status: Active
-- Name: DirecTV
-  Status: Active
-- Name: Entertainment Software Association
-  Status: Active
-- Name: Foundation for Excellence in Education
-  Status: Active
-- Name: Comcast
-  Status: Active
-- Name: Heartland Institute
-  Status: Active
-- Name: Higher Education Research/Policy Center
-  Status: Active
-- Name: Koch Industries
-  Status: Active
-- Name: News Corporation
-  Status: Active
-- Name: Thomson Reuters
-  Status: Active
-- Name: Verizon
-  Status: Active
-- Name: Wireless Generation
-  Status: Active
+- Name: Matthew Pittinsky
+  Company: Parchment
+  Role: CEO
+- Name: Matthew Pittinsky
+  Company: Picmonic
+  Role: investor
+- Name: Matthew Pittinsky
+  Company: CampusLogic
+  Role: investor
+- Name: Matthew Pittinsky
+  Company: Interfolio
+  Role: investor
+- Name: Matthew Pittinsky
+  Company: Parchment
+  Role: investor
+- Name: Matthew Pittinsky
+  Company: Parchment
+  Role: founder
+- Name: Michael Chasen
+  Company: PrecisionHawk
+  Role: CEO
+- Name: Michael Chasen
+  Company: SocialRadar
+  Role: CEO
+- Name: Michael Chasen
+  Company: SocialRadar
+  Role: founder
+- Name: Michael Chasen
+  Company: Territory
+  Role: investor
+- Name: Michael Chasen
+  Company: nvite
+  Role: investor
+- Name: Michael Chasen
+  Company: Speek
+  Role: investor
+- Name: Michael Chasen
+  Company: popexpert
+  Role: investor
+- Name: Michael Chasen
+  Company: Parchment
+  Role: investor
+- Name: Michael Chasen
+  Company: Everfi
+  Role: investor
